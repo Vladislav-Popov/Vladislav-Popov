@@ -10,10 +10,3 @@
 
 | <a href="https://github.com/Vladislav-Popov?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislav-popov&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide_rank=false" alt="Vladislav github stats" /></a> | <a href="https://github.com/Vladislav-Popov?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav-popov&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
- uses: lowlighter/metrics@latest
-  with:
-    plugin_languages: yes
-    plugin_languages_indepth: yes
-    commits_authoring: vladislav-popov
