@@ -3,7 +3,6 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=vladislav-popov) 
 
-
 - 💬 Telegram - [@Popov_VY](https://t.me/Popov_VY);
 - 📫 Twitter [@Popov_VY_](https://twitter.com/Popov_VY_);
 - 📝 [Resume](https://vladislav-popov.com/cv)
