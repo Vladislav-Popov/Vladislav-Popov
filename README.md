@@ -3,4 +3,3 @@
 
 - 📝 [CV](https://vladislav-popov.com/cv)
 - 💬 [Telegram](https://t.me/Popov_VY)
-
